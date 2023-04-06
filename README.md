@@ -1,3 +1,5 @@
+**Read wiki on how to import project to Visual Studio 2022:** https://github.com/study-game-engines/beginner-shaders/wiki/How-to-configure-builds-for-Windows-users
+
 <p align="center">
 <img src="https://i.imgur.com/x8rtGr4.gif" alt="3D Game Shaders For Beginners" title="3D Game Shaders For Beginners">
 </p>
